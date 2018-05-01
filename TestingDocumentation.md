@@ -16,3 +16,5 @@ Here's the resulting documentation for our testing of the Postfix service.
 4. We're currently running a command to see if the Postfix has been configured properly.
 
 // sudo dpkg-reconfigure postfix
+
+5. Looks like the Postfix is configured, we simply used a different variable for the email when testing the sending function.
