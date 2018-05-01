@@ -54,3 +54,5 @@ This will show us whether there were new messages or how many were received.
 // mail
 
 And they'll get information upon the mail that we've send to them and can press enter to view further.
+
+11. We'll have a list for our Postfix service to send to all our fellow users and maybe even in class we'll be able to work with everyone to check that their messages from the Postfix sootsplash were properly received.
