@@ -39,3 +39,18 @@ Here's the resulting documentation for our testing of the Postfix service.
 This will show us whether there were new messages or how many were received.
 
 8. To view the contents of a message we just pressed enter as shown in the attached picture.
+
+
+--------------------------------------------
+
+
+**Testing process and presentation:**
+
+
+9. We'll do final checks in sending out emails to our fellow users on sootsplash.
+
+10. Our fellow users simply have to just type in
+
+// mail
+
+And they'll get information upon the mail that we've send to them and can press enter to view further.
