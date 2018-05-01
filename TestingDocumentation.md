@@ -21,7 +21,14 @@ Here's the resulting documentation for our testing of the Postfix service.
 
 // Instead of using example.com we'll use csci2461.com as an email to accept from and send to.
 
-6. We made the virtual file and edited contact information 
+
+--------------------------------------------
+
+
+**Configuring the Postfix mail server:**
+
+
+6. We made the virtual file and edited contact information to help us in our configuration process.
 
 // Contact: klor0610@sootsplash.csci2461.com 
 
