@@ -8,7 +8,14 @@ Here's the resulting documentation for our services and feature overviews for pr
 
 --
 
-**Port 80**
+**SMTP Main Port**
+**Port 25**
+
+
+
+--
+
+**Port 465**
 
 Body ( )
 
@@ -16,7 +23,7 @@ Final notes * ( )
 
 --
 
-**Port 443**
+**Port 587**
 
 Body ( )
 
@@ -25,14 +32,6 @@ Final notes * ( )
 --
 
 **Linux**
-
-Body ( )
-
-Final notes * ( )
-
---
-
-**Python**
 
 Body ( )
 
