@@ -18,3 +18,17 @@ Here's the resulting documentation for our testing of the Postfix service.
 // sudo dpkg-reconfigure postfix
 
 5. Looks like the Postfix is configured, we simply used a different variable for the email when testing the sending function.
+
+// Instead of using example.com we'll use csci2461.com as an email to accept from and send to.
+
+6. We made the virtual file and edited contact information 
+
+// Contact: klor0610@sootsplash.csci2461.com 
+
+7. To check that the mail was sent properly, we typed in
+
+// mail
+
+This will show us whether there were new messages or how many were received.
+
+8. To view the contents of a message we just pressed enter as shown in the attached picture.
